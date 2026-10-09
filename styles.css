@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(to bottom, lightyellow, lightblue);
+    background-attachment: fixed;
+}
+#box{
+    border: 2px solid black;
+    font-family: sans-serif, Arial;
+
+    
+}
